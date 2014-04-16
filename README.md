@@ -3,6 +3,9 @@ Pixel-Art
 
 We implement the famous "Depixelizing Pixel Art" paper by Kopf and Linschki
 
+Dependencies : 1) sudo apt-get install inkscape
+	       2) sudo apt-get install libglib2.0-dev
+
 References
 ==========
 

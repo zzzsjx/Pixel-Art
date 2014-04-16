@@ -94,6 +94,7 @@ skip1visible(typename std::vector< Point<T> >::iterator it,
 }
 
 /**
+
  * Return how many elements should be skipped.
  */
 template<class T>

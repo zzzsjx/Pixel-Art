@@ -21,7 +21,7 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
     Lesser General Public License for more details.
 */
-
+//lolwut
 #ifndef LIBDEPIXELIZE_TRACER_INTEGRAL_H
 #define LIBDEPIXELIZE_TRACER_INTEGRAL_H
 
